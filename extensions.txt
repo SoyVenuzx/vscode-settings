@@ -1,0 +1,21 @@
+Auto Close Tag
+Auto rename Tag
+Beaded Icons (Icons)
+Better Comments (Color commands)
+Carbon Product Items (IMPORTANT - ICONS)
+C/C++ Clang Command Adapter
+C/C++ Snippets
+CodeSnap (Screenshots code)
+Color Highlight
+Git History
+Git Lens
+HTML CSS Support
+HTML Snippets
+IntelliSense for CSS Class
+Multiple Cursor case presenci
+Oh lucy (Theme)
+Palenigth Theme (Secondary Theme)
+Prettier
+Path IntelliSense
+Text Pastry
+VSCODE-pets
