@@ -1,18 +1,23 @@
+Activitus Bar
 Auto Close Tag
 Auto rename Tag
 Beaded Icons (Icons)
 Better Comments (Color commands)
-Carbon Product Items (IMPORTANT - ICONS)
+Carbon Product Items
+Material Product Icons (IMPORTANT - ICONS)
 C/C++ Clang Command Adapter
 C/C++ Snippets
 CodeSnap (Screenshots code)
+Highlight Matching Tag
+Tabnine
+TODO Highlight
 Color Highlight
 Git History
 Git Lens
 HTML CSS Support
 HTML Snippets
 IntelliSense for CSS Class
-Multiple Cursor case presenci
+Multiple Cursor Case Presence 
 Oh lucy (Theme)
 Palenigth Theme (Secondary Theme)
 Prettier
